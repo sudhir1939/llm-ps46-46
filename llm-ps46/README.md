@@ -21,4 +21,6 @@ streamlit run app.py
 ```
 
 ## Screenshots
-Add 1-2 screenshots of the running app here.
+<img width="1907" height="952" alt="image" src="https://github.com/user-attachments/assets/8597ac93-7b9d-41ec-990d-636b47ee0530" />
+<img width="1907" height="952" alt="image" src="https://github.com/user-attachments/assets/03b447cb-95dd-4485-a461-1691ac53d10d" />
+
